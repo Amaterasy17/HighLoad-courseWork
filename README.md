@@ -1,2 +1,5 @@
-# Vkontakte
-## MVP - NewsFeed
+# Тема проекта
+ Vkontakte
+## *MVP*  
+ NewsFeed
+
